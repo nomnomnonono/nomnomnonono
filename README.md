@@ -13,10 +13,12 @@ My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a914
 ### Repository Description
 - [Siri via Whisper and ChatGPT](https://github.com/nomnomnonono/Siri-via-Whisper-and-ChatGPT)
   - Application for question and answer with voice input and voice output.
-- [Paper_Search](https://github.com/nomnomnonono/Paper-Search)
+- [Paper Search](https://github.com/nomnomnonono/Paper-Search)
   - Application to search for similar papers by title and abstract.
 - [FFVAE](https://github.com/nomnomnonono/FFVAE)
   - Reproduction implementation of FFVAE which is a fair machine learning method.
+- [Arxiv Downloader](https://github.com/nomnomnonono/Arxiv-Downloader)
+  - CUI application to scrape paper from arxiv automatically.
 - [CV paper](https://github.com/nomnomnonono/CV-paper)
   - Reproduction implementation of basic deep learning methods.
 - [Image Completion](https://github.com/nomnomnonono/Image-Completion)
