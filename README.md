@@ -3,7 +3,13 @@
 I am an undergraduate student at the University of Tsukuba, studying computer science. I also belong to the [MDL](https://www.mdl.cs.tsukuba.ac.jp/), where I study fairness in machine learning.
 
 
-I also work part-time at [AVILEN](https://avilen.co.jp/) Corporation, where I lead successful machine learning projects.
+I also work part-time at [AVILEN](https://avilen.co.jp/) Corporation as a machine learning engineer.
+
+Examples of projects you have been responsible for.
+- Portrait generation with GAN
+- Portrait avatar web conferencing tool development
+- Motion estimation from lecture videos and feature extraction as learner FB
+- Lightweighting of anomaly detection models and improvement of explainability
 
 I have particular expertise in the field of computer vision, with experience ranging from image classification to image generation and anomaly detection. Recently, I have been working on developing products dealing with natural language processing.
 
