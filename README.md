@@ -23,6 +23,8 @@ My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a914
   - Application to search for similar papers by title and abstract.
 - [FFVAE](https://github.com/nomnomnonono/FFVAE)
   - Reproduction implementation of FFVAE which is a fair machine learning method.
+- [Foreigner-style Image Generation](https://github.com/nomnomnonono/Foreigner-style_Image_Generation)
+  - Application to convert japanese face images to foreigner-style.
 - [Arxiv Downloader](https://github.com/nomnomnonono/Arxiv-Downloader)
   - CUI application to scrape paper from arxiv automatically.
 - [CV paper](https://github.com/nomnomnonono/CV-paper)
