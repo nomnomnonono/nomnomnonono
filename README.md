@@ -20,19 +20,19 @@ My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a914
 - [Siri via Whisper and ChatGPT](https://github.com/nomnomnonono/Siri-via-Whisper-and-ChatGPT)
   - Application for question and answer with voice input and voice output.
 - [Paper Search](https://github.com/nomnomnonono/Paper-Search)
-  - Application to search for similar papers by title and abstract.
+  - Application to search for similar papers by title and abstract, keywords.
 - [FFVAE](https://github.com/nomnomnonono/FFVAE)
   - Reproduction implementation of FFVAE which is a fair machine learning method.
 - [Foreigner-style Image Generation](https://github.com/nomnomnonono/Foreigner-style_Image_Generation)
   - Application to convert japanese face images to foreigner-style.
 - [Arxiv Downloader](https://github.com/nomnomnonono/Arxiv-Downloader)
   - CUI application to scrape paper from arxiv automatically.
+- [Video Crop](https://github.com/nomnomnonono/Video-Crop)
+  - GUI application to crop specified parts of a video.
 - [CV paper](https://github.com/nomnomnonono/CV-paper)
   - Reproduction implementation of basic deep learning methods.
 - [Image Completion](https://github.com/nomnomnonono/Image-Completion)
   - Experimental code for GLCIC which is a deep learning-based image completion method.
-- [Video Crop](https://github.com/nomnomnonono/Video-Crop)
-  - GUI application to crop specified parts of a video.
 - [Record of Papers](https://github.com/nomnomnonono/Record-of-Papers)
   - My reading record of papers I have read.
 - [Record of Reading](https://github.com/nomnomnonono/Record-of-Reading)
