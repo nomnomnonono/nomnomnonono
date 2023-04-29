@@ -17,6 +17,8 @@ I have particular expertise in the field of computer vision, with experience ran
 My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a9142b26a/). If anyone is interested, please contact me.
 
 ### Repository Description
+- [Sound Effect Search](https://github.com/nomnomnonono/SoundEffect-Search)
+  - Application to search for similar sound effects by voice and title.
 - [Siri via Whisper and ChatGPT](https://github.com/nomnomnonono/Siri-via-Whisper-and-ChatGPT)
   - Application for question and answer with voice input and voice output.
 - [Paper Search](https://github.com/nomnomnonono/Paper-Search)
