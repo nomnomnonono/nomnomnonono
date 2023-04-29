@@ -17,6 +17,8 @@ I have particular expertise in the field of computer vision, with experience ran
 My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a9142b26a/). If anyone is interested, please contact me.
 
 ### Repository Description
+- [Background Image Generation for Zoom](https://github.com/nomnomnonono/Background-Image-Generation-for-Zoom)
+  - Application to generate background image for meeting (ex. Zoom, Meet, Teams).
 - [Sound Effect Search](https://github.com/nomnomnonono/SoundEffect-Search)
   - Application to search for similar sound effects by voice and title.
 - [Siri via Whisper and ChatGPT](https://github.com/nomnomnonono/Siri-via-Whisper-and-ChatGPT)
