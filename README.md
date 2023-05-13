@@ -13,6 +13,8 @@ Examples of projects you have been responsible for.
 
 I have particular expertise in the field of computer vision, with experience ranging from image classification to image generation and anomaly detection. Recently, I have been working on developing products dealing with natural language processing.
 
+I am also interested in web development and have started learning Ruby on Rails, Go, React etc.
+
 
 My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a9142b26a/). If anyone is interested, please contact me.
 
@@ -39,3 +41,6 @@ My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a914
   - My reading record of papers I have read.
 - [Record of Reading](https://github.com/nomnomnonono/Record-of-Reading)
   - My reading record of technical books I have read.
+
+### Publications
+- [少数のセンシティブ属性を用いた公平な学習（JSAI23）](https://confit.atlas.jp/guide/event/jsai2023/subject/2D4-GS-2-05/tables?cryptoId=)
