@@ -18,29 +18,28 @@ I am also interested in web development and have started learning Ruby on Rails,
 
 My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a9142b26a/). If anyone is interested, please contact me.
 
-### Repository Description
-- [Smilar Skeletal Person Estimation](https://github.com/nomnomnonono/Smilar-Skeletal-Person-Estimation)
-  - Application that measures the skeleton from input facial images and estimates celebrities with similar skeletons.
-- [Background Image Generation for Zoom](https://github.com/nomnomnonono/Background-Image-Generation-for-Zoom)
-  - Application to generate background image for meeting (ex. Zoom, Meet, Teams).
-- [Sound Effect Search](https://github.com/nomnomnonono/SoundEffect-Search)
-  - Application to search for similar sound effects by voice and title.
-- [Siri via Whisper and ChatGPT](https://github.com/nomnomnonono/Siri-via-Whisper-and-ChatGPT)
-  - Application for question and answer with voice input and voice output.
-- [Paper Search](https://github.com/nomnomnonono/Paper-Search)
-  - Application to search for similar papers by title and abstract, keywords.
-- [FFVAE](https://github.com/nomnomnonono/FFVAE)
-  - Reproduction implementation of FFVAE which is a fair machine learning method.
-- [Foreigner-style Image Generation](https://github.com/nomnomnonono/Foreigner-style_Image_Generation)
-  - Application to convert japanese face images to foreigner-style.
-- [Arxiv Downloader](https://github.com/nomnomnonono/Arxiv-Downloader)
-  - CUI application to scrape paper from arxiv automatically.
-- [Video Crop](https://github.com/nomnomnonono/Video-Crop)
-  - GUI application to crop specified parts of a video.
-- [Record of Papers](https://github.com/nomnomnonono/Record-of-Papers)
-  - My reading record of papers I have read.
-- [Record of Reading](https://github.com/nomnomnonono/Record-of-Reading)
-  - My reading record of technical books I have read.
+## Repository Description
+### Reproduction Implementation of Fairness Paper
+- [FFVAE](https://github.com/nomnomnonono/FFVAE)：Reproduction implementation of FFVAE which is a fair machine learning method.
+
+### Machine Learning Application
+- [Paper Search](https://github.com/nomnomnonono/Paper-Search)：Application to search for similar papers by title and abstract, keywords.
+- [Background Image Generation for Zoom](https://github.com/nomnomnonono/Background-Image-Generation-for-Zoom)：Application to generate background image for meeting (ex. Zoom, Meet, Teams).
+- [Siri via Whisper and ChatGPT](https://github.com/nomnomnonono/Siri-via-Whisper-and-ChatGPT)：Application for question and answer with voice input and voice output.
+- [Smilar Skeletal Person Estimation](https://github.com/nomnomnonono/Smilar-Skeletal-Person-Estimation)：Application that measures the skeleton from input facial images and estimates celebrities with similar skeletons.
+- [Sound Effect Search](https://github.com/nomnomnonono/SoundEffect-Search)：Application to search for similar sound effects by voice and title.
+- [Foreigner-style Image Generation](https://github.com/nomnomnonono/Foreigner-style_Image_Generation)：Application to convert japanese face images to foreigner-style.
+
+### CUI/GUI Application
+- [Arxiv Downloader](https://github.com/nomnomnonono/Arxiv-Downloader)：CUI application to scrape paper from arxiv automatically.
+- [Video Crop](https://github.com/nomnomnonono/Video-Crop)：GUI application to crop specified parts of a video.
+
+### Others (Language Practice, University Lectures, etc.)
+- [Ruby Practice](https://github.com/nomnomnonono/Ruby-Practice)
+- [Go Practice](https://github.com/nomnomnonono/Go-Practice)
+- [Number Decomposition Problem](https://github.com/nomnomnonono/Number-Decomposition-Problem)：Algorithm for dividing a sequence of numbers into equal sums.
+- [Record of Papers](https://github.com/nomnomnonono/Record-of-Papers)：My reading record of papers I have read.
+- [Record of Reading](https://github.com/nomnomnonono/Record-of-Reading)：My reading record of technical books I have read.
 
 ### Publications
 - [少数のセンシティブ属性を用いた公平な学習（JSAI23）](https://confit.atlas.jp/guide/event/jsai2023/subject/2D4-GS-2-05/tables?cryptoId=)
