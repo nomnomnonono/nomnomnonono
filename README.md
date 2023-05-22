@@ -13,7 +13,7 @@ Examples of projects you have been responsible for.
 
 I have particular expertise in the field of computer vision, with experience ranging from image classification to image generation and anomaly detection. Recently, I have been working on developing products dealing with natural language processing.
 
-I am also interested in web development and have started learning Ruby on Rails, Go, etc.
+I am also interested in web development and have started learning Ruby on Rails and Go, AWS, etc.
 
 
 My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a9142b26a/). If anyone is interested, please contact me.
