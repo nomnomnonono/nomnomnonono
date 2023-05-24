@@ -21,6 +21,7 @@ My LinkedIn account is [here](https://www.linkedin.com/in/nozomu-koujiguchi-a914
 ## Repository Description
 ### Reproduction Implementation of Fairness Paper
 - [FFVAE](https://github.com/nomnomnonono/FFVAE)：Reproduction implementation of FFVAE which is a fair machine learning method.
+- [FairDRO](https://github.com/nomnomnonono/FairDRO)：Reproduction implementation of FairDRO which is a fair machine learning method.
 
 ### Machine Learning Application
 - [Paper Search](https://github.com/nomnomnonono/Paper-Search)：Application to search for similar papers by title and abstract, keywords.
